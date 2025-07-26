@@ -25,4 +25,4 @@ A platform enabling virtual group study with real-time messaging.
 ## 📫 Contact Me
 📧 ananyashukla157@gmail.com  
 📍 Chhattisgarh, India  
-[LinkedIn](https://linkedin.com/in/ananyyaaa19)
+
