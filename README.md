@@ -10,7 +10,7 @@ Welcome! I'm Ananya, a backend developer specializing in Java, Spring Boot, and 
 **Tech Stack**: Java, Spring Boot, MySQL, JWT, Docker, Eureka, Feign  
 An end-to-end microservices backend system for an e-commerce platform.
 
-🔗 [Project Details](./MegaMart/README.md)
+🔗 [Project Details](./MegaMart)
 
 ---
 
@@ -18,7 +18,7 @@ An end-to-end microservices backend system for an e-commerce platform.
 **Tech Stack**: Java, Spring Boot, WebSocket, JWT, MySQL  
 A platform enabling virtual group study with real-time messaging.
 
-🔗 [Project Details](./LearnSphere/README.md)
+🔗 [Project Details](./LearnSphere)
 
 ---
 
